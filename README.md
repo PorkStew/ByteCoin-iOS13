@@ -1,5 +1,12 @@
 # ByteCoin-iOS13
 
+## Portrait
+
+<img src="images/Portrait.PNG" width=600px;>
+
+## Landscape
+<img src="images/Landscape.PNG" width=600px;>
+
 ## COPYRIGHT
 MIT License
 
