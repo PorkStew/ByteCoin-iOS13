@@ -6,7 +6,7 @@ An app designed to get the current BTC price based on the selected currency usin
 - StoryBoards
 - UIKit
 - Decoding JSON
-- Creating a linking multiple View Controllers
+- Creating and linking multiple View Controllers
 - Creating and linking IBOutlets and IBActions
 - Creating and mutating structs
 - Creating functions
