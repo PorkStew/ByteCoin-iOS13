@@ -1,4 +1,17 @@
 # ByteCoin-iOS13
+An app designed to get the current BTC price based on the selected currency using an API.
+
+### What was learnt
+- MVC Design Pattern
+- StoryBoards
+- UIKit
+- Decoding JSON
+- Creating a linking multiple View Controllers
+- Creating and linking IBOutlets and IBActions
+- Creating and mutating structs
+- Creating functions
+- Optional Values
+- If statements
 
 <img src="images/ByteCoin.PNG" width=600px;>
 
